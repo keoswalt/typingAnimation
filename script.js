@@ -4,7 +4,7 @@ const listItem2 = document.getElementById('listItem2');
 const listItem3 = document.getElementById('listItem3');
 
 // Content to write
-const text1 = "• Application “Visual Studio Code” is open";
+const text1 = "• Enabling dark mode";
 const text2 = "• The search field contains the text “original”";
 const text3 = "• The replace field contains the text “replacement”";
 
